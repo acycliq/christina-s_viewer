@@ -32,9 +32,9 @@
 //
 
  function config() { return{
-  "cellData": {"mediaLink": "../../data/christina/zeisel/inefficiency=0.2/cellData_filtered.tsv", "size": "51629995"},
-  "geneData": {"mediaLink": "../../data/christina/zeisel/inefficiency=0.2/geneData_filtered.tsv", "size": "281108235"},
-  "cellBoundaries": {"mediaLink": "../../data/christina/zeisel/inefficiency=0.2/cellBoundaries_filtered.tsv", "size": "2540181"},
+  "cellData": {"mediaLink": "https://storage.googleapis.com/christina_silver_hc/zeisel/inefficiency%3D0.2/cellData_filtered.tsv", "size": "51629995"},
+  "geneData": {"mediaLink": "https://storage.googleapis.com/christina_silver_hc/zeisel/inefficiency%3D0.2/geneData_filtered.tsv", "size": "281108235"},
+  "cellBoundaries": {"mediaLink": "https://storage.googleapis.com/christina_silver_hc/zeisel/inefficiency%3D0.2/cellBoundaries_filtered.tsv", "size": "2540181"},
   "roi": {"x0": 0, "x1": 6411, "y0": 0, "y1": 4412}, "maxZoom": 8,
   "layers": {
    "empty": "",
