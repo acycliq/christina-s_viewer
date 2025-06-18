@@ -38,7 +38,7 @@
   "roi": {"x0": 0, "x1": 6411, "y0": 0, "y1": 4412}, "maxZoom": 8,
   "layers": {
    "empty": "",
-   // "dapi (master:34)": "https://storage.googleapis.com/aang_data/tiles/dapi_34/{z}/{y}/{x}.jpg",
+   "dapi (master:51)": "https://storage.googleapis.com/christina_silver_hc/tiles_hc/tiles_51/{z}/{y}/{x}.jpg",
   },
   "spotSize": 0.0625} }
 
